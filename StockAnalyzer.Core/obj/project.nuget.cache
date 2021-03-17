@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tjoKAd6n87myTAh0WF2pnMPK0/u4rZJguYarVKO/cQa0dbld906CsIde2Y7MWRDLTh1+0OthJwIL27DHn9DpLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Suat-\\source\\repos\\getting-started-with-asynchronous-programming-dotnet-master\\src\\Windows\\02\\Start_Here\\StockAnalyzer.Core\\StockAnalyzer.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Suat-\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Suat-\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
